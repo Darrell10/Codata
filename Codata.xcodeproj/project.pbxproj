@@ -58,6 +58,10 @@
 		B6A3B56923A5429A0027A072 /* Codata */ = {
 			isa = PBXGroup;
 			children = (
+				B6A3B58423A543A30027A072 /* Supporting Files */,
+				B6A3B58323A5439C0027A072 /* Controller */,
+				B6A3B58223A543950027A072 /* View */,
+				B6A3B58123A543880027A072 /* Modele */,
 				B6A3B56A23A5429A0027A072 /* AppDelegate.swift */,
 				B6A3B56C23A5429A0027A072 /* SceneDelegate.swift */,
 				B6A3B56E23A5429A0027A072 /* ViewController.swift */,
@@ -68,6 +72,34 @@
 				B6A3B57323A5429A0027A072 /* Codata.xcdatamodeld */,
 			);
 			path = Codata;
+			sourceTree = "<group>";
+		};
+		B6A3B58123A543880027A072 /* Modele */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Modele;
+			sourceTree = "<group>";
+		};
+		B6A3B58223A543950027A072 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		B6A3B58323A5439C0027A072 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		B6A3B58423A543A30027A072 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
