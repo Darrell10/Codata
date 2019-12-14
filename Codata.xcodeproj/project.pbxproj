@@ -62,14 +62,7 @@
 				B6A3B58323A5439C0027A072 /* Controller */,
 				B6A3B58223A543950027A072 /* View */,
 				B6A3B58123A543880027A072 /* Modele */,
-				B6A3B56A23A5429A0027A072 /* AppDelegate.swift */,
-				B6A3B56C23A5429A0027A072 /* SceneDelegate.swift */,
-				B6A3B56E23A5429A0027A072 /* ViewController.swift */,
-				B6A3B57023A5429A0027A072 /* Main.storyboard */,
-				B6A3B57623A5429E0027A072 /* Assets.xcassets */,
-				B6A3B57823A5429E0027A072 /* LaunchScreen.storyboard */,
 				B6A3B57B23A5429E0027A072 /* Info.plist */,
-				B6A3B57323A5429A0027A072 /* Codata.xcdatamodeld */,
 			);
 			path = Codata;
 			sourceTree = "<group>";
@@ -77,6 +70,7 @@
 		B6A3B58123A543880027A072 /* Modele */ = {
 			isa = PBXGroup;
 			children = (
+				B6A3B57323A5429A0027A072 /* Codata.xcdatamodeld */,
 			);
 			path = Modele;
 			sourceTree = "<group>";
@@ -84,6 +78,8 @@
 		B6A3B58223A543950027A072 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				B6A3B57023A5429A0027A072 /* Main.storyboard */,
+				B6A3B57823A5429E0027A072 /* LaunchScreen.storyboard */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -91,6 +87,7 @@
 		B6A3B58323A5439C0027A072 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				B6A3B56E23A5429A0027A072 /* ViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -98,6 +95,9 @@
 		B6A3B58423A543A30027A072 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B6A3B56A23A5429A0027A072 /* AppDelegate.swift */,
+				B6A3B56C23A5429A0027A072 /* SceneDelegate.swift */,
+				B6A3B57623A5429E0027A072 /* Assets.xcassets */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
